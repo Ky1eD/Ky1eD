@@ -1,7 +1,28 @@
-### Hi there 👋
+<h1>Hi, I'm Kyle! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/kyle-dailey/">IT Professional</a>,  <a href="https://youtube.com/@KMTech17?si=0JXDWcpnMirpD0Tv">YouTuber</a></h1>
+
+<h2>👨‍💻 Cybersecurity, Cloud, and IT Projects:</h2>
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [TOP 10 Commands YOU NEED to know in PowerShell](https://www.youtube.com/watch?v=oi6i_ImOmvc&t=7s)
+- [YOU NEED TO LEARN ABOUT VIRTUAL MACHINES](https://www.youtube.com/watch?v=05wNMdOP5HI&t=15s)
+- [Did I waste my time doing The Google IT Support Certifcation *Review*)](https://www.youtube.com/watch?v=DawbhGcQeWs)
+- [Networking 101](https://www.youtube.com/watch?v=7UdrAAuIk5M)
+- [You need to go to WGU to get a job in IT](https://www.youtube.com/watch?v=pAacxZX9q3Y)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[youtube]: https://youtube.com/@KMTech17?si=0JXDWcpnMirpD0Tv
+[linkedin]: https://linkedin.com/in/kyle-dailey
 
 <!--
-**Ky1eD/Ky1eD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
