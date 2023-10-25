@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kyle! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/kyle-dailey/">IT Professional</a>,  <a href="https://youtube.com/@KMTech17?si=0JXDWcpnMirpD0Tv">YouTuber</a></h1>
+<h1>Hi, I'm Kyle! <a href="https://www.linkedin.com/in/kyle-dailey/">IT Professional</a>,  <a href="https://youtube.com/@KMTech17?si=0JXDWcpnMirpD0Tv">YouTuber</a></h1>, <br/><a href="https://github.com/Ky1eD">Programmer</a>
 
 <h2>👨‍💻 Cybersecurity, Cloud, and IT Projects:</h2>
 
