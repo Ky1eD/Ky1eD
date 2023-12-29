@@ -1,9 +1,11 @@
 <h1>Hi, I'm Kyle! <br/><a href="https://www.linkedin.com/in/kyle-dailey/">IT Professional</a>, <a href="https://github.com/Ky1eD">Programmer</a>,  <a href="https://youtube.com/@KMTech17?si=0JXDWcpnMirpD0Tv">YouTuber</a></h1>
 
 <h2>👨‍💻 Cloud, Cybersecurity, and IT Projects:</h2>
-- <b>General IT projects</b>
-  - [Installing OS and Dual booting](https://github.com/Ky1eD/DualBootSetupLab)   
-  - [Windows Server 2016 Homelab](Add Link)
+ <b>General IT projects</b>
+ 
+- [Installing OS and Dual booting](https://github.com/Ky1eD/DualBootSetupLab)
+- [Windows Server 2016 Homelab](Add Link)
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [TOP 10 Commands YOU NEED to know in PowerShell](https://www.youtube.com/watch?v=oi6i_ImOmvc&t=7s)    
