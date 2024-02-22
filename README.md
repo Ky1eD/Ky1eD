@@ -6,6 +6,9 @@
 - [Installing OS and Dual booting](https://github.com/Ky1eD/DualBootSetupLab)
 - [Windows Server 2016 Homelab](https://github.com/Ky1eD/Homelab)
 - [Making a VM in VirtualBox](https://github.com/Ky1eD/Homelab)
+ <b>General IT projects</b>
+ 
+- [Dice Roller (Python)](https://github.com/Ky1eD/DiceRoller)
 
 <h2>📺 Popular YouTube Videos</h2>
 
