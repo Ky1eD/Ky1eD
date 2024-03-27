@@ -8,6 +8,7 @@
 - [Making a VM in VirtualBox](https://github.com/Ky1eD/Homelab)
 
  <b>Programming Projects</b>
+ 
 - [Secure Password Generator (Python)](https://github.com/Ky1eD/PasswordGenerator) 
 - [Dice Roller (Python)](https://github.com/Ky1eD/DiceRoller)
 
