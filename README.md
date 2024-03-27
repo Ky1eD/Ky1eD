@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cloud, Cybersecurity, and IT Projects:</h2>
  <b>General IT projects</b>
+ 
 - [Installing OS and Dual booting](https://github.com/Ky1eD/DualBootSetupLab)
 - [Windows Server 2016 Homelab](https://github.com/Ky1eD/Homelab)
 - [Making a VM in VirtualBox](https://github.com/Ky1eD/Homelab)
