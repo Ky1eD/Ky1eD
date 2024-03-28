@@ -7,8 +7,7 @@
 - [Windows Server 2016 Homelab](https://github.com/Ky1eD/Homelab)
 - [Making a VM in VirtualBox](https://github.com/Ky1eD/Homelab)
 
- <b>Programming Projects</b>
- 
+ <b>Programming Projects</b> 
 - [Secure Password Generator (Python)](https://github.com/Ky1eD/PasswordGenerator) 
 - [Dice Roller (Python)](https://github.com/Ky1eD/DiceRoller)
 
@@ -16,7 +15,7 @@
 
 - [TOP 10 Commands YOU NEED to know in PowerShell](https://www.youtube.com/watch?v=oi6i_ImOmvc&t=7s)    
 - [YOU NEED TO LEARN ABOUT VIRTUAL MACHINES](https://www.youtube.com/watch?v=05wNMdOP5HI&t=15s)
-- [Did I waste my time doing The Google IT Support Certifcation *Review*)](https://www.youtube.com/watch?v=DawbhGcQeWs)
+- [Did I waste my time doing The Google IT Support Certifcation *Review*](https://www.youtube.com/watch?v=DawbhGcQeWs)
 - [Networking 101](https://www.youtube.com/watch?v=7UdrAAuIk5M)
 - [You need to go to WGU to get a job in IT](https://www.youtube.com/watch?v=pAacxZX9q3Y)
 
