@@ -7,8 +7,7 @@
 - [Windows Server 2016 Homelab](https://github.com/Ky1eD/Homelab)
 - [Making a VM in VirtualBox](https://github.com/Ky1eD/Homelab)
 
- <b>Programming Projects</b> 
-- [Secure Password Generator (Python)](https://github.com/Ky1eD/PasswordGenerator) 
+ <b>Programming Projects</b> - [Secure Password Generator (Python)](https://github.com/Ky1eD/PasswordGenerator) 
 - [Dice Roller (Python)](https://github.com/Ky1eD/DiceRoller)
 
 <h2>📺 Popular YouTube Videos</h2>
